@@ -42,7 +42,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
               ),
             ),
             Wrap(
-              children: Btn.BtnValues.map(
+              children: Btn.btnValues.map(
                 (value) => SizedBox(
                   width: value == Btn.n0
                       ? screenSize.width / 2

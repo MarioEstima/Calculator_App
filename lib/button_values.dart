@@ -20,7 +20,7 @@ class Btn {
   static const String n8 = "8";
   static const String n9 = "9";
 
-  static const List<String> BtnValues = [
+  static const List<String> btnValues = [
     del,
     clr,
     per,
